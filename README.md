@@ -5,7 +5,7 @@
 
 ## **METHODOLOGY**
    * ### GO TO
-     * ### [Car Driving Mechanics](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#car-driving-mechanics-1)
+     * ### [Car Driving Mechanics](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#self_driving_car_simulator)
      * ### [Road Definition](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#road-definition-1)
      * ### [Artificial Sensors](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#artificial-sensors-1)
      * ### [Collision Detection](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#collision-detection-1)
