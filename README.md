@@ -22,7 +22,7 @@
      ![image](https://user-images.githubusercontent.com/88255480/216444495-687035c8-26f6-4877-b347-0322f38fc30b.png)  
   Unit Circle
   
-[TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology) 
+[TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology) 
 - - - -   
 ### ROAD DEFINITION 
   * #### The number of lanes is determined and the lane split based on the given number by linear interpolation
@@ -46,7 +46,7 @@
     }
 
       ```
- [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology)     
+ [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology)     
  - - - -      
  ### **Artificial Sensors** 
  * #### We build a simple car model with 5 rays upfront 
@@ -55,7 +55,7 @@
  * ####  Each of them has its reading so that it is displayed on it in a different color and also stored for use.
      ![image](https://user-images.githubusercontent.com/88255480/216446714-2b42dfea-68b9-4bfa-904e-659ebee2281c.png)
      
- [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology)    
+ [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology)    
  - - - - 
  ### **Collision Detection** 
  * #### Any damage that occurs to the car is monitored by checking if there is any intersection between the car and any other obstacle and if the car is damaged, stop immediately.
@@ -85,7 +85,7 @@
           return false;
         }
      ```
-  [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology)   
+  [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology)   
  - - - -  
  
    ### **Traffic Simulation** 
@@ -95,7 +95,7 @@
  * #### Because if the speed is the same then it won’t be possible for our main car to catch those cars and we will not be able to test the collision detection between the car and the traffic.
      ![image](https://user-images.githubusercontent.com/88255480/216450439-fbb26436-9de1-4f49-a1c5-fe1a37cbcdc5.png)
    
- [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology)
+ [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology)
  - - - - 
  ### **Neural network and Visualising network** 
  * #### Architecture of ANN is typical one fully connected layers [multi-layer Perceptron]
@@ -110,7 +110,7 @@
  * #### The algorithm works in this way,when the sensors pick up something close to them, then these signals are read, analyzed and sent as inputs to our first level in neural networks, then each output we have at the first level is calculated as the sum of the link weight multiplied by the input, and checked if possible.
  * #### We take advantage of this output (i.e., can it help us to avoid a certain obstacle) by comparing it with bias, and accordingly making it an output, and this process is repeated at all the levels we have in the neural networks.
  * #### All layers in our neural networks (all neurons, connections with weights, biases, and interactions) are represented as an animated graph that explains the process of data transmission from one level to another.
- [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology)
+ [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology)
  - - - - 
  ### **Genetic Algorithm** 
  * #### The genetic algorithm of the project is to perform mutations in different proportions on the best selected car and generate several cars from them to obtain the best possible results from each generation.
