@@ -114,5 +114,5 @@
  - - - - 
  ### **Genetic Algorithm** 
  * #### The genetic algorithm of the project is to perform mutations in different proportions on the best selected car and generate several cars from them to obtain the best possible results from each generation.
- [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#methodology)
+ [TOP :top:](https://github.com/priyaWDEV15/self_driving_car_simulator#methodology)
  - - - - 
