@@ -5,12 +5,12 @@
 
 ## **METHODOLOGY**
    * ### GO TO
-     * ### [Car Driving Mechanics](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#self_driving_car_simulator)
-     * ### [Road Definition](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#road-definition-1)
-     * ### [Artificial Sensors](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#artificial-sensors-1)
-     * ### [Collision Detection](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#collision-detection-1)
-     * ### [Traffic Simulation](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#traffic-simulation-1)
-     * ### [Neural Network and Visualising Network](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#neural-network-and-visualising-network-1)
+     * ### [Car Driving Mechanics](#self_driving_car_simulator)
+     * ### [Road Definition](#road-definition-1)
+     * ### [Artificial Sensors](#artificial-sensors-1)
+     * ### [Collision Detection](#collision-detection-1)
+     * ### [Traffic Simulation](#traffic-simulation-1)
+     * ### [Neural Network and Visualising Network](#neural-network-and-visualising-network-1)
      * ### [Genetic Algorithm](https://github.com/priyaWDEV15/self_driving_car_simulator/edit/main/README.md#genetic-algorithm-1)
 - - - -
 
