@@ -1,4 +1,4 @@
-# **self_driving_car_simulator**
+# **SELF DRIVING CAR SIMULATOR**
 ### A path finding, self learning  car, built by implementing Neural Network Algorithms in Javascript.
 > The car has been modelled using canvas. Elements like road, traffic, sensors are built using HTML, CSS, Javascript only. 
 > Pathfinding algorithm is implemented in javascript. The trained model is stored in browser's cache and can be utilized once fully trainied.
